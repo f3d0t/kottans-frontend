@@ -2,6 +2,7 @@
 Kottans fronend course
 
 # stage0
-- [V] 0 - [<b>Git Basics</b>] - (#git-basics)
+ - 🔥 **0 Git Basics** - [*DONE*](#git-basics)
 
 ## <a name="git-basics">Git Basics</a>
+
