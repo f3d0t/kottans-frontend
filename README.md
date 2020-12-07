@@ -3,7 +3,7 @@ Kottans fronend course
 
 # stage0
  - 🔥 **0 Git Basics** - [*DONE*](#git_basics)
- - 🔥 **1 Git Basics** - [*DONE*](#task_linux_cli)
+ - 🔥 **1 Linux CLI and Networking** - [*DONE*](#task_linux_cli)
 
 ## <a name="git_basics">Git Basics</a>
 I've never used Git before! This study was awesome, I've learned a lot of things =)
