@@ -41,6 +41,7 @@ While i've completed all levels at learngitbranching.js.org at task#0, there was
  <summary>Screenshots:</summary>
 
  | ![task_linux_cli__scr--0](./task_git_collaboration/0.png) | ![task_linux_cli__scr--1](./task_git_collaboration/1.png) |
+ | --- | --- |
 
 </details>
 
