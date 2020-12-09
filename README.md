@@ -5,6 +5,7 @@ Kottans fronend course
  - 🔥 **0 Git Basics** - [*DONE*](#git_basics)
  - 🔥 **1 Linux CLI and Networking** - [*DONE*](#task_linux_cli)
  - 🔥 **2 Git Collaboration** - [*DONE*](#task_git_collaboration)
+ - 🔥 **3 Intro to HTML and CSS** - [*DONE*](#task_html_css_intro)
 
 ## <a name="git_basics">Git Basics</a>
 I've never used Git before! This study was awesome, I've learned a lot of things =)
@@ -40,8 +41,18 @@ While i've completed all levels at learngitbranching.js.org at task#0, there was
 <details>
  <summary>Screenshots:</summary>
 
- | ![task_linux_cli__scr--0](./task_git_collaboration/0.png) | ![task_linux_cli__scr--1](./task_git_collaboration/1.png) |
+ | ![task_git_collaboration--0](./task_git_collaboration/0.png) | ![task_git_collaboration--1](./task_git_collaboration/1.png) |
  | --- | --- |
+
+</details>
+
+## <a name="task_html_css_intro">Intro to HTML and CSS</a>
+I have known almost everything, except grids. It was cool to understand everything about them =)
+<details>
+ <summary>Screenshots:</summary>
+
+ | ![task_html_css_intro--0](./task_html_css_intro/0.png) | ![task_html_css_intro--1](./task_html_css_intro/1.png) | ![task_html_css_intro--2](./task_html_css_intro/2.png) |
+ | --- | --- | --- |
 
 </details>
 
