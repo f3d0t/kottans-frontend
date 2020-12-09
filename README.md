@@ -6,6 +6,7 @@ Kottans fronend course
  - 🔥 **1 Linux CLI and Networking** - [*DONE*](#task_linux_cli)
  - 🔥 **2 Git Collaboration** - [*DONE*](#task_git_collaboration)
  - 🔥 **3 Intro to HTML and CSS** - [*DONE*](#task_html_css_intro)
+ - 🔥 **4 Responsive Web Design** - [*DONE*](#task_responsive_web_design)
 
 ## <a name="git_basics">Git Basics</a>
 I've never used Git before! This study was awesome, I've learned a lot of things =)
@@ -56,3 +57,12 @@ I have known almost everything, except grids. It was cool to understand everythi
 
 </details>
 
+## <a name="task_responsive_web_design">Responsive Web Design</a>
+I have known everything before. =)
+<details>
+ <summary>Screenshots:</summary>
+
+ | ![task_responsive_web_design--0](./task_responsive_web_design/0.png) | ![task_responsive_web_design--1](./task_responsive_web_design/1.png) |
+ | --- | --- |
+
+</details>
