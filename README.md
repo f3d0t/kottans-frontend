@@ -7,6 +7,7 @@ Kottans fronend course
  - 🔥 **2 Git Collaboration** - [*DONE*](#task_git_collaboration)
  - 🔥 **3 Intro to HTML and CSS** - [*DONE*](#task_html_css_intro)
  - 🔥 **4 Responsive Web Design** - [*DONE*](#task_responsive_web_design)
+ - 🔥 **5 HTML & CSS practice** - [*DONE*](#html_css_popup)
 
 ## <a name="git_basics">Git Basics</a>
 I've never used Git before! This study was awesome, I've learned a lot of things =)
@@ -66,3 +67,7 @@ I have known everything before. =)
  | --- | --- |
 
 </details>
+
+## <a name="html_css_popup">HTML & CSS practice</a>
+This was fun experience and good remembering practice. [Demo
+
