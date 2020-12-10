@@ -69,5 +69,4 @@ I have known everything before. =)
 </details>
 
 ## <a name="html_css_popup">HTML & CSS practice</a>
-This was fun experience and good remembering practice. [Demo](https://f3d0t.github.io/f3d0t/html_css_popup/){:target="_blank"}
-
+This was fun experience and good remembering practice. [Demo](https://f3d0t.github.io/f3d0t/html_css_popup/)
