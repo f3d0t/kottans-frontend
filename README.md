@@ -95,7 +95,7 @@ Also, it was enjoyable to learn on freeCodeCamp! Material is big, and I will kee
 <details>
  <summary>Screenshots:</summary>
 
-| ![task_responsive_web_design--0](./task_js_basics/0.png) | ![task_responsive_web_design--1](./task_js_basics/1.png) |
+| ![task_js_basics--0](./task_js_basics/0.PNG) | ![task_js_basics--1](./task_js_basics/1.PNG) |
 | -------------------------------------------------------- | -------------------------------------------------------- |
 
 </details>
