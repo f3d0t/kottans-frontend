@@ -89,7 +89,7 @@ This was fun experience and good remembering practice. [Demo](https://f3d0t.gith
 
 ## <a name="task_js_basics">JS Basics</a>
 
-There was many new things to me. The biggest part of new things is all about methods to work with strings, arrays, and object.
+There was many new things to me. The biggest part of new things is all about methods to work with strings, arrays, and object.\
 Also, it was enjoyable to learn on freeCodeCamp! Material is big, and I will keep practicing to fully master it. =)
 
 <details>
