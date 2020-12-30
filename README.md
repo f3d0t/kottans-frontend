@@ -100,14 +100,16 @@ Also, it was enjoyable to learn on freeCodeCamp! Material is big, and I will kee
 | -------------------------------------------- | -------------------------------------------- |
 
 </details>
+
 ## <a name="task_js_dom">DOM</a>
-This was fun experience and good remembering practice. \
-New things to me was about JS call stack and queue, also about three phases of event processing.
+This was fun experience and good remembering practice.\
+New things to me was about JS call stack and queue, also about three phases of event processing.\
 [Demo](https://f3d0t.github.io/f3d0t/task_js_dom/)
+
 <details>
  <summary>Screenshots:</summary>
 
-| ![task_js_dom--0](./task_js_dom/0.png) | ![task_js_dom--1](./task_js_dom/1.png) |
+| ![task_js_dom--0](./task_js_dom/screenshots/0.png) | ![task_js_dom--1](./task_js_dom/screenshots/1.png) |
 | -------------------------------------- | -------------------------------------- |
 
 </details>
