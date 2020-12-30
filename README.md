@@ -11,8 +11,7 @@ Kottans fronend course
 - 🔥 **4 Responsive Web Design** - [_DONE_](#task_responsive_web_design)
 - 🔥 **5 HTML & CSS practice** - [_DONE_](#html_css_popup)
 - 🔥 **6 JS Basics** - [_DONE_](#task_js_basics)
-
-## DOM
+- 🔥 **7 DOM** - [_DONE_](#task_js_dom)
 
 ## <a name="git_basics">Git Basics</a>
 
@@ -104,7 +103,7 @@ Also, it was enjoyable to learn on freeCodeCamp! Material is big, and I will kee
 ## <a name="task_js_dom">DOM</a>
 This was fun experience and good remembering practice. \
 New things to me was about JS call stack and queue, also about three phases of event processing.
-
+[Demo](https://f3d0t.github.io/f3d0t/task_js_dom/)
 <details>
  <summary>Screenshots:</summary>
 
