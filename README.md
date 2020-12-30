@@ -12,6 +12,8 @@ Kottans fronend course
 - 🔥 **5 HTML & CSS practice** - [_DONE_](#html_css_popup)
 - 🔥 **6 JS Basics** - [_DONE_](#task_js_basics)
 
+## DOM
+
 ## <a name="git_basics">Git Basics</a>
 
 I've never used Git before! This study was awesome, I've learned a lot of things =)
@@ -96,6 +98,17 @@ Also, it was enjoyable to learn on freeCodeCamp! Material is big, and I will kee
  <summary>Screenshots:</summary>
 
 | ![task_js_basics--0](./task_js_basics/0.PNG) | ![task_js_basics--1](./task_js_basics/1.PNG) |
-| -------------------------------------------------------- | -------------------------------------------------------- |
+| -------------------------------------------- | -------------------------------------------- |
+
+</details>
+## <a name="task_js_dom">DOM</a>
+This was fun experience and good remembering practice. \
+New things to me was about JS call stack and queue, also about three phases of event processing.
+
+<details>
+ <summary>Screenshots:</summary>
+
+| ![task_js_dom--0](./task_js_dom/0.png) | ![task_js_dom--1](./task_js_dom/1.png) |
+| -------------------------------------- | -------------------------------------- |
 
 </details>
