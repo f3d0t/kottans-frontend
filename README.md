@@ -142,5 +142,5 @@ Also, it was very hard and interesting to understand how Frogger works and comle
 
 ## <a name="js_prost_oop">OOP practice</a>
 
-This task wass much easier, becouse I was already quite familiar with ES6 class declarations.\
+This task wass much easier, because I was already quite familiar with ES6 class declarations.\
 Anyway, there is so many thing that i should learn in 2021 =)
