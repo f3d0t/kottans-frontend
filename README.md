@@ -14,6 +14,7 @@ Kottans fronend course
 - 🔥 **7 DOM** - [_DONE_](#task_js_dom)
 - 🔥 **8 JS pre OOP** - [_DONE_](#js_pre_oop)
 - 🔥 **9 Object-Oriented JavaScript** - [_DONE_](#task_js_oop)
+- 🔥 **10 OOP practice** - [_DONE_](#js_prost_oop)
 
 ## <a name="git_basics">Git Basics</a>
 
@@ -138,3 +139,8 @@ Also, it was very hard and interesting to understand how Frogger works and comle
 | -------------------------------------------------- | -------------------------------------------------- |
 
 </details>
+
+## <a name="js_prost_oop">OOP practice</a>
+
+This task wass much easier, becouse I was already quite familiar with ES6 class declarations.\
+Anyway, there is so many thing that i should learn in 2021 =)
