@@ -134,7 +134,7 @@ Also, it was very hard and interesting to understand how Frogger works and comle
 <details>
  <summary>Screenshots:</summary>
 
-| ![task_js_oop--0](./task_js_oop/screenshots/0.png) | ![task_js_oop--1](./task_js_oop/screenshots/1.png) |
+| ![task_js_oop--0](./task_js_oop/0.png) | ![task_js_oop--1](./task_js_oop/1.png) |
 | -------------------------------------------------- | -------------------------------------------------- |
 
 </details>
