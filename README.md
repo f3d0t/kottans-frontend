@@ -129,7 +129,7 @@ There was many new things to me on Udacity course.\
 Now I understand how is this keyword binding happening and now have some understading of inheritance patterns. \
 Also, it was very hard and interesting to understand how Frogger works and comlete it.\
 
-[JS Frogger Demo](https://f3d0t.github.io/f3d0t/a_tiny_js_world_pre_oop/)
+[JS Frogger Demo](https://f3d0t.github.io/f3d0t/js_oop/)
 
 <details>
  <summary>Screenshots:</summary>
