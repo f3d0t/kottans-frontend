@@ -13,6 +13,7 @@ Kottans fronend course
 - 🔥 **6 JS Basics** - [_DONE_](#task_js_basics)
 - 🔥 **7 DOM** - [_DONE_](#task_js_dom)
 - 🔥 **8 JS pre OOP** - [_DONE_](#js_pre_oop)
+- 🔥 **9 Object-Oriented JavaScript** - [_DONE_](#task_js_oop)
 
 ## <a name="git_basics">Git Basics</a>
 
@@ -87,7 +88,7 @@ I have known everything before. =)
 
 ## <a name="html_css_popup">HTML & CSS practice</a>
 
-This was fun experience and good remembering practice. [Demo](https://f3d0t.github.io/f3d0t/html_css_popup/)
+This was fun experience and good remembering practice. [HTML CSS popup Demo](https://f3d0t.github.io/f3d0t/html_css_popup/)
 
 ## <a name="task_js_basics">JS Basics</a>
 
@@ -106,7 +107,7 @@ Also, it was enjoyable to learn on freeCodeCamp! Material is big, and I will kee
 
 This was fun experience and good remembering practice.\
 New things to me was about JS call stack and queue, also about three phases of event processing.\
-[Demo](https://f3d0t.github.io/f3d0t/task_js_dom/)
+[JS Dom Poke Demo](https://f3d0t.github.io/f3d0t/task_js_dom/)
 
 <details>
  <summary>Screenshots:</summary>
@@ -118,4 +119,22 @@ New things to me was about JS call stack and queue, also about three phases of e
 
 ## <a name="js_pre_oop">JS pre OOP</a>
 
-Easy done
+Easy done\
+[Tiny Js world pre-OOP Demo](https://f3d0t.github.io/f3d0t/a_tiny_js_world_pre_oop/)
+
+## <a name="task_js_oop">Object-Oriented JavaScript</a>
+
+Wow. This was hard.
+There was many new things to me on Udacity course.\
+Now I understand how is this keyword binding happening and now have some understading of inheritance patterns. \
+Also, it was very hard and interesting to understand how Frogger works and comlete it.\
+
+[JS Frogger Demo](https://f3d0t.github.io/f3d0t/a_tiny_js_world_pre_oop/)
+
+<details>
+ <summary>Screenshots:</summary>
+
+| ![task_js_oop--0](./task_js_oop/screenshots/0.png) | ![task_js_oop--1](./task_js_oop/screenshots/1.png) |
+| -------------------------------------------------- | -------------------------------------------------- |
+
+</details>
