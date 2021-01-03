@@ -14,7 +14,9 @@ Kottans fronend course
 - 🔥 **7 DOM** - [_DONE_](#task_js_dom)
 - 🔥 **8 JS pre OOP** - [_DONE_](#js_pre_oop)
 - 🔥 **9 Object-Oriented JavaScript** - [_DONE_](#task_js_oop)
-- 🔥 **10 OOP practice** - [_DONE_](#js_prost_oop)
+- 🔥 **10 OOP practice** - [_DONE_](#js_post_oop)
+- 🔥 **11 Offline Web Applications** - [_Not DONE yet_](#offline_web_apps)
+- 🔥 **12 Memory – Pair Game** - [_DONE_](#memory_pair_game)
 
 ## <a name="git_basics">Git Basics</a>
 
@@ -136,11 +138,16 @@ Also, it was very hard and interesting to understand how Frogger works and comle
  <summary>Screenshots:</summary>
 
 | ![task_js_oop--0](./task_js_oop/0.png) | ![task_js_oop--1](./task_js_oop/1.png) |
-| -------------------------------------------------- | -------------------------------------------------- |
+| -------------------------------------- | -------------------------------------- |
 
 </details>
 
-## <a name="js_prost_oop">OOP practice</a>
+## <a name="js_post_oop">OOP practice</a>
 
 This task wass much easier, because I was already quite familiar with ES6 class declarations.\
 Anyway, there is so many things that i should learn in 2021 =)
+
+## <a name="memory_pair_game">Memory – Pair Game</a>
+
+This was fun to me to create real game from scratch.\
+Nothing hard, it was real practice! Also, I've learned new array shuffle method - it is very cool!
