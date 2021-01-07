@@ -157,5 +157,5 @@ Nothing hard, it was real practice! Also, I've learned new array shuffle method 
 ## <a name="friends_app">Friends App</a>
 
 It was higly educative task.\
-I have learned how to fetch data, create async functions.\ 
+I have learned how to fetch data, create async functions.\
 Also, I had done this app with OOP approach, and I like it.
