@@ -17,6 +17,8 @@ Kottans fronend course
 - 🔥 **10 OOP practice** - [_DONE_](#js_post_oop)
 - 🔥 **11 Offline Web Applications** - [_Not DONE yet_](#offline_web_apps)
 - 🔥 **12 Memory – Pair Game** - [_DONE_](#memory_pair_game)
+- 🔥 **13 Website Performance Optimization** - [_Not DONE yet_](#website_perfomance_optimization)
+- 🔥 **14 Friends App** - [_DONE_](#friends_app)
 
 ## <a name="git_basics">Git Basics</a>
 
@@ -151,3 +153,9 @@ Anyway, there is so many things that i should learn in 2021 =)
 
 This was fun to me to create real game from scratch.\
 Nothing hard, it was real practice! Also, I've learned new array shuffle method - it is very cool!
+
+## <a name="friends_app">Friends App</a>
+
+It was higly educative task.\
+I have learned how to fetch data, create async functions.\ 
+Also, I had done this app with OOP approach, and I like it.
