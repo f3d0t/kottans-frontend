@@ -147,15 +147,21 @@ Also, it was very hard and interesting to understand how Frogger works and comle
 ## <a name="js_post_oop">OOP practice</a>
 
 This task wass much easier, because I was already quite familiar with ES6 class declarations.\
-Anyway, there is so many things that i should learn in 2021 =)
+Anyway, there is so many things that i should learn in 2021 =)\
+
+[Tiny Js world OOP Demo](https://f3d0t.github.io/f3d0t/a_tiny_js_world_post_oop/)
 
 ## <a name="memory_pair_game">Memory – Pair Game</a>
 
 This was fun to me to create real game from scratch.\
-Nothing hard, it was real practice! Also, I've learned new array shuffle method - it is very cool!
+Nothing hard, it was real practice! Also, I've learned new array shuffle method - it is very cool!\
+
+[Memory – Pair Game Demo](https://f3d0t.github.io/f3d0t/memory_pair_game/)
 
 ## <a name="friends_app">Friends App</a>
 
 It was higly educative task.\
 I have learned how to fetch data, create async functions.\
-Also, I had done this app with OOP approach, and I like it.
+Also, I had done this app with OOP approach, and I like it.\
+
+[Friends App Demo](https://f3d0t.github.io/friends-app/)
